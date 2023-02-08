@@ -1,0 +1,11 @@
+{
+  "incurredExpense": {
+    "id": "8dd55be3-7227-4658-bd12-ca2791082769",
+    "description": "Gasto para validar balance por categoria y tarjeta",
+    "category": "c889f9ae-268c-4667-aca5-999a68f4b22e",
+    "creditCard": "e0eca7da-ac01-449b-8d6e-99ebd33037a1",
+    "amountCS": 30,
+    "amountUSD": 0
+  },
+  "budgetId": "a5041b9b-ef30-4f46-ae78-433af51d3d61"
+}

@@ -1,0 +1,11 @@
+{
+  "expectedExpense": {
+    "id": "c991cef2-9583-4544-a2d8-5931e7f28a08",
+    "description": "Test bank transfer",
+    "bankId": "ef981cbd-1abb-49db-a60a-bafcf5ca254f",
+    "valueUSD": 150,
+    "valueCS": 0
+  },
+  "budgetId": "a5041b9b-ef30-4f46-ae78-433af51d3d61",
+  "period": "Primer Quincena"
+}
